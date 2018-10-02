@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:0,Investigación Discovery
+http://main.nrdtv.gq:2095/live/818/818/178.m3u8
+#EXTINF:0,Nacional geografic
+http://main.nrdtv.gq:2095/live/818/818/89.m3u8
+#EXTINF:0,History Channel
+http://main.nrdtv.gq:2095/live/818/818/126.m3u8
+#EXTINF:0,H2 
+http://main.nrdtv.gq:2095/live/818/818/253.m3u8
+#EXTINF:0,TyC sports
+http://main.nrdtv.gq:2095/live/818/818/148.m3u8
+#EXTINF:0,Espn
+http://main.nrdtv.gq:2095/live/818/818/400.m3u8
+#EXTINF:0,Espn+
+http://main.nrdtv.gq:2095/live/818/818/58.m3u8
+#EXTINF:0,Fox sports 
+http://main.nrdtv.gq:2095/live/818/818/71.m3u8
+#EXTINF:0,Fox sports premium
+http://main.nrdtv.gq:2095/live/818/818/17.m3u8
+#EXTINF:0,Hbo
+http://main.nrdtv.gq:2095/live/818/818/396.m3u8
+#EXTINF:0,Hbo2
+http://main.nrdtv.gq:2095/live/818/818/163.m3u8
+#EXTINF:0,Hbo family
+http://main.nrdtv.gq:2095/live/818/818/325.m3u8
+#EXTINF:0,Hbo signature
+http://main.nrdtv.gq:2095/live/818/818/500.m3u8
+#EXTINF:0,Fox premium series
+http://main.nrdtv.gq:2095/live/818/818/63.m3u8
+#EXTINF:0,Fox premium action
+http://main.nrdtv.gq:2095/live/818/818/64.m3u8
+#EXTINF:0,Fox premium family
+http://main.nrdtv.gq:2095/live/818/818/494.m3u8
+#EXTINF:0,Fox premium cinema
+http://main.nrdtv.gq:2095/live/818/818/495.m3u8
+#EXTINF:0,Fox premium classics
+http://main.nrdtv.gq:2095/live/818/818/66.m3u8
+#EXTINF:0,Fox premium movies
+http://main.nrdtv.gq:2095/live/818/818/69.m3u8
+#EXTINF:0,Amc
+http://main.nrdtv.gq:2095/live/818/818/103.m3u8
+#EXTINF:0,Space
+http://main.nrdtv.gq:2095/live/818/818/421.m3u8
+#EXTINF:0,Max prime
+http://main.nrdtv.gq:2095/live/818/818/503.m3u8
+#EXTINF:0,Universal Channel
+http://main.nrdtv.gq:2095/live/818/818/113.m3u8
+#EXTINF:0,Tbs
+http://main.nrdtv.gq:2095/live/818/818/102.m3u8
+#EXTINF:0,Tnt series
+http://main.nrdtv.gq:2095/live/818/818/432.m3u8
+#EXTINF:0,Golden plus
+http://main.nrdtv.gq:2095/live/818/818/76.m3u8
+#EXTINF:0,Max up
+http://main.nrdtv.gq:2095/live/818/818/503.m3u8
+#EXTINF:0,Paramount Channel
+http://main.nrdtv.gq:2095/live/818/818/460.m3u8 
+#EXTINF:0,Fox
+http://main.nrdtv.gq:2095/live/818/818/401.m3u8
+#EXTINF:0,Axn
+http://main.nrdtv.gq:2095/live/818/818/146.m3u8
+#EXTINF:0,Warner Channel
+http://main.nrdtv.gq:2095/live/818/818/130.m3u8
+#EXTINF:0,Cine max
+http://main.nrdtv.gq:2095/live/818/818/122.m3u8
+#EXTINF:0,Tcm
+http://main.nrdtv.gq:2095/live/818/818/103.m3u8
+#EXTINF:0,Syfy
+http://main.nrdtv.gq:2095/live/818/818/101.m3u8
+#EXTINF:0,Tnt
+http://main.nrdtv.gq:2095/live/818/818/108.m3u8
+#EXTINF:0,Studio universal
+http://main.nrdtv.gq:2095/live/818/818/114.m3u8
+#EXTINF:0,Mtv
+http://main.nrdtv.gq:2095/live/818/818/87.m3u8
+#EXTINF:0,Top latino
+http://173.236.60.186:1935/livetv/latinoSD.stream/playlist.m3u8
+#EXTINF:0,Música top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
